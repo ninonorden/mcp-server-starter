@@ -122,6 +122,14 @@ This starter is intentionally small: it has **no authentication**, so anything y
 
 **[Get MCP Server Starter Kit Pro: $39 →](https://buy.polar.sh/polar_cl_MdemhJ72jGx4ILhnmA3Sq1VDyMRO215Dd7Uke3FQVIe)** · 14-day money-back guarantee · unlimited projects
 
+
+## Other tools from Nino Ventures
+
+- [Filing Watch](https://ninonorden.github.io/ninoventures/filing-watch.html) — SEC Form 4 / 8-K alerts to Telegram ($29, [free starter](https://buy.polar.sh/polar_cl_Sk4wMlE4xmp7foJuHBHx7Hi1phqoBs2Sw6Jkq3qqdrv))
+- [Agency Monitoring Pack](https://ninonorden.github.io/ninoventures/n8n.html) — five n8n workflows ($24)
+- [Stackdiff](https://ninonorden.github.io/ninoventures/stackdiff.html) — Shopify app & theme detector ($4/mo Pro)
+- Site: https://ninonorden.github.io/ninoventures/
+
 ## License
 
 MIT © Nino Ventures
